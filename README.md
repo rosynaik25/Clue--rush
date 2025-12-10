@@ -16,11 +16,11 @@ Challenges your logic and deduction skills in a fun way.
 ---
 ✨ Features
 
--🎯 Provides 3 hints for each challenge
--🏆 Tracks and shows the score
--💡 Gives hints to help guess the correct answer
--🖥 Simple and clean console interface
--🐍 Fully coded with basic Python concepts
+1.🎯 Provides 3 hints for each challenge
+2.🏆 Tracks and shows the score
+3.💡 Gives hints to help guess the correct answer
+4.🖥 Simple and clean console interface
+5.🐍 Fully coded with basic Python concepts
 
 ---
 🛠 Installation
@@ -41,10 +41,10 @@ Challenges your logic and deduction skills in a fun way.
 ---
 💻 Technologies Used
 
--Python 3.x
--Loops & conditions
--Input/output functions
--Logic and problem-solving
+1.Python 3.x
+2.Loops & conditions
+3.Input/output functions
+4.Logic and problem-solving
 
 
 
