@@ -1,9 +1,9 @@
 # Clue--rush
-🎮 Clue Rush
 
 
 
-🌟 About the Project
+
+ About the Project
 
 Clue Rush is a fun and interactive guessing game developed using Python, inspired by the classic number guessing game.
 Developed using class 11 syllabus concepts.
@@ -13,7 +13,7 @@ Challenges your logic and deduction skills in a fun way.
 
 
 
-
+---
 ✨ Features
 
 🎯 Provides 3 hints for each challenge
@@ -22,13 +22,14 @@ Challenges your logic and deduction skills in a fun way.
 🖥 Simple and clean console interface
 🐍 Fully coded with basic Python concepts
 
-
+---
 🛠 Installation
 
 1. Make sure Python 3.x is installed.
 2. Run the game file in your console or idle.
 
 
+---
 🕹 How to Play
 
 1. Run the game.
@@ -37,6 +38,7 @@ Challenges your logic and deduction skills in a fun way.
 4. Your score will be displayed at the end.
    
 
+---
 💻 Technologies Used
 
 Python 3.x
@@ -46,21 +48,21 @@ Logic and problem-solving
 
 
 
-
+---
 💡 Inspiration
 
 Started as a Number Guessing Game, and I thought: “Why not make it clue-based?”
 That idea became Clue Rush, adding more fun and challenge to guessing.
 
 
-
+---
 🤝 Feedback & Contributions
 
 This project is beginner-friendly.
 Feel free to try it, suggest improvements, or make your own version!
 
 
-
+---
 ✨ Author
 
 Rosy – Class 11 student & Python enthusiast
